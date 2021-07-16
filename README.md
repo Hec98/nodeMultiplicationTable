@@ -1,10 +1,10 @@
-## Notas
-### Descargar node_modules
+### Notas
+Descargar node_modules
 ```
 npm install
 ```
+Opciones
 ```
-Options:
       --help     Show help                                        [boolean]
       --version  Show version number                              [boolean]
   -b, --base     Es la base de la tabla du multuplicar            [number] [required]
