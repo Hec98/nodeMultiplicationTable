@@ -1,5 +1,8 @@
-# Notas
-
+## Notas
+### Descargar node_modules
+```
+npm install
+```
 ```
 Options:
       --help     Show help                                        [boolean]
